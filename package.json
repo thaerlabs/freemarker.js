@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@coding.net:ijse/freemarker.js.git"
+    "url": "git@github.com:thaerlabs/freemarker.js.git"
   },
   "keywords": [
     "freemarker",
@@ -18,7 +18,7 @@
   "bin": {
     "fmpp": "./fmpp/fmpp"
   },
-  "author": "ijse",
+  "author": "thaerlabs",
   "license": "MIT",
   "devDependencies": {
     "mocha": "^2.2.0",
